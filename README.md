@@ -88,4 +88,4 @@ Exemplo:
 
 ---
 
-> *Este projeto foi realizado com apoio da equipe Fatec CoderHood e desenvolvido durante o segundo semestre de 2024.*
+> *Este projeto foi realizado com apoio da equipe Fatec CoderHood e desenvolvido durante o segundo semestre de 2024, terceiro semestre do curso de Banco de Dados.*
