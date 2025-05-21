@@ -73,7 +73,7 @@ classDiagram
 
 ---
 
-## 💡 Objetivo
+## 🧠 Conclusão
 
 Demonstrar que, sem seguir corretamente os padrões de projeto, os sistemas se tornam mais frágeis, acoplados e difíceis de evoluir. Esses exemplos contrastam com a aplicação correta dos padrões `Composite`, `Observer` e `Strategy`.
 
