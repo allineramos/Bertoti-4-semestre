@@ -6,6 +6,7 @@ Este projeto demonstra exemplos **corretamente aplicados** de três padrões de 
 - `Observer`
 - `Singleton`
 - `Strategy`
+- `Composite`
 
 ---
 
